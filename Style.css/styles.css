@@ -1,0 +1,97 @@
+body {
+}
+
+.background-image {
+  background-color: #678678;
+  background-size: cover;
+}
+
+.toptitle {
+  background-color: white;
+  border-radius: 50px;
+  color: black;
+  width: 85%;
+  padding: 5px 10px;
+  margin: 1px auto;
+  font-family: barlow;
+  text-align: center;
+  font-size: 25px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 30px;
+  font-family: barlow;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 64px;
+}
+h3 {
+  text-align: center;
+  font-size: 50px;
+  font-family: barlow;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  font-family: barlow;
+}
+
+h5 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-family: poppins;
+}
+
+p2 {
+  font-size: 20px;
+}
+
+.homepage-links {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2px;
+  font-family: barlow;
+}
+.homepage-links a {
+  margin: 18px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+}
+
+.contact-me {
+  border: 1px solid gray;
+  background-color: #eae3e3;
+  color: purple;
+}
+.portfolio {
+  border: 1px solid black;
+  color: purple;
+}
+
+p {
+  background-color: red;
+  padding: 5px;
+  border-radius: 4px;
+  line-height: 22px;
+  font-size: 17px;
+}
+
+.about-paragraphs {
+  display: flex;
+  margin: 10px 40px;
+}
+
+.about-paragraphs p {
+  margin: 15px;
+  text-align: center;
+}
